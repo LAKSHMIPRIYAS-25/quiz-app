@@ -6,19 +6,18 @@ A simple and responsive Quiz App built using HTML, CSS, Bootstrap, and JavaScrip
 
 ## 🚀 Live Demo
 
-🔗 **Live Demo:** https://your-live-demo-link.com
+🔗 Live Demo: https://lakshmipriyas-25.github.io/quiz-app/
 
 ---
 
 ## 💻 Source Code
 
 ```bash
-git clone https://github.com/your-username/quiz-app.git
-```
+git clone https://github.com/LAKSHMIPRIYAS-25/quiz-app.git
 
 Or visit the repository:
 
-https://github.com/your-username/quiz-app
+https://github.com/LAKSHMIPRIYAS-25/quiz-app.git
 
 ---
 
