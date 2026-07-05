@@ -19,6 +19,7 @@ Or visit the repository:
 
 https://github.com/LAKSHMIPRIYAS-25/quiz-app.git
 
+```
 ---
 
 ## 📸 Screenshot
